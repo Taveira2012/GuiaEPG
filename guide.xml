@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo RJ HD">
+    <display-name lang="pt">Globo RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ SD">
+    <display-name lang="pt">Globo RJ SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band - RBA TV (PA)">
+    <display-name lang="pt">Band - RBA TV (PA)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT RJ HD">
+    <display-name lang="pt">SBT RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT RJ SD">
+    <display-name lang="pt">SBT RJ SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SD">
+    <display-name lang="pt">SBT SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT PE">
+    <display-name lang="pt">SBT PE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT PE HD">
+    <display-name lang="pt">SBT PE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT - TV Jornal Caruaru (PE)">
+    <display-name lang="pt">SBT - TV Jornal Caruaru (PE)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RJ">
+    <display-name lang="pt">Record RJ</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RJ HD">
+    <display-name lang="pt">Record RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RJ SD">
+    <display-name lang="pt">Record RJ SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record sp">
+    <display-name lang="pt">Record sp</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record sp HD">
+    <display-name lang="pt">Record sp HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record sp SD">
+    <display-name lang="pt">Record sp SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record BH">
+    <display-name lang="pt">Record BH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record BH SD">
+    <display-name lang="pt">Record BH SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record DF">
+    <display-name lang="pt">Record DF</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record DF SD">
+    <display-name lang="pt">Record DF SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record DF HD">
+    <display-name lang="pt">Record DF HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record GO">
+    <display-name lang="pt">Record GO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record GO SD">
+    <display-name lang="pt">Record GO SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record Manaus">
+    <display-name lang="pt">Record Manaus</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record PA">
+    <display-name lang="pt">Record PA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record PA SD">
+    <display-name lang="pt">Record PA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record PA HD">
+    <display-name lang="pt">Record PA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RS">
+    <display-name lang="pt">Record RS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RS SD">
+    <display-name lang="pt">Record RS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RS HD">
+    <display-name lang="pt">Record RS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record BA">
+    <display-name lang="pt">Record BA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record BA SD">
+    <display-name lang="pt">Record BA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record BA HD">
+    <display-name lang="pt">Record BA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record RN - TV TROPICAL">
+    <display-name lang="pt">Record RN - TV TROPICAL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News- TV GUARA">
+    <display-name lang="pt">Record News- TV GUARA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV! SP">
+    <display-name lang="pt">RedeTV! SP</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE BRASIL">
+    <display-name lang="pt">REDE BRASIL</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede Brasil SP">
+    <display-name lang="pt">Rede Brasil SP</display-name>
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+  <channel id="Rede Brasil - TV Marajoara (PA)">
+    <display-name lang="pt">Rede Brasil - TV Marajoara (PA)</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Rede Brasil DE">
+    <display-name lang="pt">Rede Brasil DE</display-name>
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+</tv>
